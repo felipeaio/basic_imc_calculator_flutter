@@ -1,4 +1,4 @@
-# calculadora
+# Basic Calculator for IMC
 
 A new Flutter project.
 
